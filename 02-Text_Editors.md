@@ -90,3 +90,5 @@ Security professionals often edit:
 - Scripts
 
 using terminal-based editors such as Nano and Vim.
+
+![Nano Editor](images/nano.png)
