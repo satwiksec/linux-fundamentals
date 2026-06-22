@@ -19,10 +19,10 @@ Advantages:
 
 Common Shortcuts:
 
-Ctrl + O | Save file 
-Ctrl + X | Exit 
-Ctrl + K | Cut line 
-Ctrl + U | Paste line 
+- Ctrl + O | Save file
+- Ctrl + X | Exit 
+- Ctrl + K | Cut line 
+- Ctrl + U | Paste line 
 
 
 
