@@ -77,6 +77,7 @@ htop
 - User information
 
 Compared to `top`, htop provides a more user-friendly and interactive interface.
+
 ![](images/htop.png)
 
 ## uptime
