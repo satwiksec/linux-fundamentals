@@ -9,13 +9,13 @@ Permissions can be viewed using:
 ```bash
 ls -l
 ```
-![](images/permission.png)
 
 Example output:
 
 ```text
 -rwx-wx-rwx
 ```
+![](images/permission.png)
 
 ## Understanding the Permission String
 
