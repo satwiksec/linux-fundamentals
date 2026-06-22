@@ -91,4 +91,6 @@ Security professionals often edit:
 
 using terminal-based editors such as Nano and Vim.
 
+## Nano Example
+
 ![Nano Editor](images/nano.png)
