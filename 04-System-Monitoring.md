@@ -9,6 +9,7 @@ Displays memory usage in megabytes (MB).
 ```bash
 free -m
 ```
+![](images/freem.png)
 
 ### Information Displayed
 
@@ -76,7 +77,7 @@ htop
 - User information
 
 Compared to `top`, htop provides a more user-friendly and interactive interface.
-
+![](images/htop.png)
 
 ## uptime
 
