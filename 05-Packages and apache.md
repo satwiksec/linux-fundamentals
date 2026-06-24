@@ -19,7 +19,6 @@ Ubuntu Linux Repo:
 - Apache2
 - firefox
 - Vim
-- Vim-nox
 ```
 
 
