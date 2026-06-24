@@ -1,0 +1,26 @@
+# Linux Package Management (APT)
+
+
+## what is APT?
+
+APT stands for Advanced Package Tool. This is used in debian based distributions like:
+- ubuntu
+- kali
+- linux Mint
+It helps to install, remove and search packages.
+
+## Repository
+A repository is a server that stores packages. It is like the app store of linux. These are maintained usually by 
+distribution-providers and companies.
+
+Eg:
+```text
+Ubuntu Linux Repo:
+- Apache2
+- firefox
+- Vim
+- Vim-nox
+```
+
+
+  
