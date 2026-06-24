@@ -44,6 +44,23 @@ This command updates the repository index.
 APT contacts the repositories and downloads the latest information about available packages and versions.
 eg: 
 
+![](images/update.png)
+
+### sudo apt upgrade
+This actually installs the packages in the system.
+
+### sudo apt remove <package>
+This removes the downloaded package from the system.
+### sudo apt autoremove
+This command removes the additional necessary packages downloaded with the actual reqired package.
+
+
+
+
+
+
+
+
 
 
 
