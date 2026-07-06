@@ -129,4 +129,4 @@ htop
 uptime
 ```
 
-These commands provide information about memory usage, disk space, inode usage, running processes, and system uptime.
+These commands provide information about memory usage, disk space, inode usage, running processes and system uptime.
