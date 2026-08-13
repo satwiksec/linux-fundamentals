@@ -126,3 +126,52 @@ Example:
 ```bash
 ls -la
 ```
+
+## find
+
+Searches for files by their name.
+
+**Syntax:**
+
+```bash
+find -name <filename>
+```
+
+**Example:**
+
+```bash
+find -name passwords.txt
+```
+
+Searches recursively through directories to locate a file with the specified name.
+
+---
+
+## grep
+
+Searches for specific text inside a file.
+
+**Syntax:**
+
+```bash
+grep "text" <filename>
+```
+
+**Example:**
+
+```bash
+grep "THM" access.log
+```
+
+Displays all lines containing the specified text.
+
+Commonly used to search logs and configuration files.
+
+---
+
+### Difference Between `find` and `grep`
+
+| Command | Purpose |
+|---------|---------|
+| `find` | Searches for files by name |
+| `grep` | Searches for text inside files |
