@@ -171,7 +171,7 @@ Commonly used to search logs and configuration files.
 
 ### Difference Between `find` and `grep`
 
-| Command | Purpose |
-|---------|---------|
-| `find` | Searches for files by name |
-| `grep` | Searches for text inside files |
+| Command|Purpose|
+|-------|--------|
+|`find`| searches for file by name|
+|`grep`| searches for text inside a file| 
