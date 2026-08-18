@@ -175,3 +175,32 @@ Commonly used to search logs and configuration files.
 |-------|--------|
 |`find`| searches for file by name|
 |`grep`| searches for text inside a file| 
+
+
+# Linux Directories (`/etc`, `/var`, `/root`, `/tmp`)
+
+## `/etc` – System Configuration
+Stores system-wide configuration files.
+
+**Common files:**
+- `passwd` – User account information
+- `shadow` – Encrypted password hashes (SHA-512)
+- `sudoers` – Users/groups allowed to use `sudo`
+
+
+# `/var` – Variable Data
+Stores data that changes frequently.
+
+**Common directories:**
+- `/var/log` – System and application logs
+- `/var/backups` – Backup files
+- `/var/tmp` – Temporary files that may persist across reboots
+
+## `/root` – Root User's Home
+Home directory of the **root (administrator)** user.
+
+## `/tmp` – Temporary Files
+Used for temporary data and files.
+
+- World-writable by default (all users can write here).
+- Contents are usually cleared after a reboot.
